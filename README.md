@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lioemi
 - 👀 I’m interested in become a backend dev
-- 🌱 I’m currently learning Ruby
+- 🌱 I'm currently learning on my backend path career
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me emichainit@gmail.com
 
